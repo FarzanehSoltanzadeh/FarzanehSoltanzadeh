@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 -->
 ```markdown
 # I'm Farzaneh, currently based in Germany.
+
 Whenever I get a new task, I usually ask myself:
 > How can I combine what I've learned to solve this?
-That mindset has taken me wherever the problem needed me to go, from building dashboards and data analysis to creating ML models and automating repetitive work.
+That mindset has taken me wherever the problem needed me to go,
+from building dashboards and data analysis to creating ML models and automating repetitive work.
 
-I'm currently doing my master's in **Data Science and Artificial Intelligence**. I'm focusing on applied AI and learning about the safety side of AI.
+I'm currently doing my master's in **Data Science and Artificial Intelligence**,
+focusing on applied AI and learning about the safety side of AI.
 
 I am always open to contributions and teamwork >_<
 ```
