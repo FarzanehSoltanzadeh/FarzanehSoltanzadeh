@@ -1,12 +1,12 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="left">Hi there 👋</h2>
 
-<p align="center">
+<p align="left">
   I'm Farzaneh, currently based in Germany.
 </p>
 
 ---
 
-Whenever I get a new task, I usually ask myself:
+Whenever I get a new task, I ask myself:
 
 > **How can I combine what I've learned to solve this?**
 
