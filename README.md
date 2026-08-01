@@ -8,7 +8,7 @@
 
 Whenever I get a new task, I ask myself:
 
-> **How can I combine what I've learned to solve this?**
+> **What are the details of this problem, and how can I use new tools to improve the process?**
 
 That mindset has taken me wherever the problem needed me to go,  
 from building dashboards and data analysis to creating ML models and automating repetitive work.
