@@ -10,7 +10,7 @@ Whenever I get a new task, I ask myself:
 
 > **What are the details of this problem, and how can I use new tools to improve the process?**
 
-That mindset has taken me wherever the problem needed me to go,  
+This has taken me wherever the problem needed me to go,  
 from building dashboards and data analysis to creating ML models and automating repetitive work.
 
 I'm currently doing my master's in **Data Science and Artificial Intelligence**,  
