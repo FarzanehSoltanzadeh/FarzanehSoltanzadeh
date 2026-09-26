@@ -13,8 +13,7 @@ Whenever I get a new task, I ask myself:
 This has taken me wherever the problem needed me to go,  
 from building dashboards and data analysis to creating ML models and automating repetitive work.
 
-I'm currently doing my master's in **Data Science and Artificial Intelligence**,  
-focusing on applied AI and learning about the safety side of AI.
+I'm currently doing my master's in **Data Science and Artificial Intelligence**.
 
 ---
 
